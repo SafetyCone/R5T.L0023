@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Version>0.0.4</Version>
+    <Authors>David Coats</Authors>
+    <Company>Rivet Anomalytics Inc.</Company>
+    <Product>R5T.L0023</Product>
+    <Description>A minimal library.</Description>
+    <Copyright>2022 Rivet Anomalytics Inc.</Copyright>
+    <RepositoryUrl>https://github.com/SafetyCone/R5T.L0023</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
